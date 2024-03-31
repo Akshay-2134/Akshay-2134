@@ -1,3 +1,4 @@
+![logo](https://github.com/Akshay-2134/Akshay-2134/blob/main/Background.png)
 <h1 align="center">Hi 👋, I'm Akshay Chauhan</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
